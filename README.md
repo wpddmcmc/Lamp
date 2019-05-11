@@ -1,4 +1,7 @@
 # Lamp
+![build](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)
+![release](https://img.shields.io/badge/release-v1.0-blue.svg)
+![TGEEK](https://img.shields.io/badge/Hi~-TGeek-yellowgreen.svg)
 ---
 
 **LED智能灯**
